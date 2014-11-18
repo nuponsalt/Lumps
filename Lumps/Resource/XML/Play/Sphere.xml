@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Position>
+    <X>0</X>
+    <Y>50</Y>
+    <Z>0</Z>
+  </Position>
+  <Gravity>-0.03</Gravity>
+  <Radius>2.5</Radius>
+  <gRadius>2.5</gRadius>
+  <SizeMin>30</SizeMin>
+  <SizeMax>50</SizeMax>
+</root>

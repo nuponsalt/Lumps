@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<Path>Resource/Texture/Effect/Perticle.png</Path>
+  <Number>50</Number>
+  <Speed>1</Speed>
+  <Size>5</Size>
+  <SizeTransform>0.2</SizeTransform>
+</root>
+

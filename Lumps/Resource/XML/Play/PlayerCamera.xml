@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <TPS>
+    <OffsetZ>-1</OffsetZ>
+    <Distance>15</Distance>
+    <Overhead>2</Overhead>
+    <Speed>5</Speed>
+  </TPS>
+  <FPS>
+    
+  </FPS>
+</root>

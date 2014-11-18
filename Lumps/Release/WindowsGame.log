@@ -1,0 +1,93 @@
+﻿2014/11/02 18:57:58 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\vantan\Desktop\GameProduction\KMT Works\3D Games\DirectX Games\Lumps\WindowsGame.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Release\WindowsGame.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         すべての出力が最新のものです。
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IDXUT\Core /IDXUT\Optional /Zi /nologo /W4 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D D3DXFX_LARGEADDRESS_HANDLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /arch:SSE2 /fp:fast /Zc:wchar_t /Zc:forScope /openmp- /Yu"DXUT.h" /Fp"Release\WindowsGame.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Program\Library\Graphics\Shader\Lambert\ShaderLambert.cpp  
+         ShaderLambert.cpp
+       ResourceCompile:
+         すべての出力が最新のものです。
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\vantan\Desktop\GameProduction\KMT Works\3D Games\DirectX Games\Lumps\Release\WindowsGame.exe" /INCREMENTAL:NO /NOLOGO d3dx10.lib d3dx9.lib dxerr.lib dxguid.lib winmm.lib comctl32.lib libxml2.lib dinput8.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\WindowsGame.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\vantan\Desktop\GameProduction\KMT Works\3D Games\DirectX Games\Lumps\Release\WindowsGame.pdb" /SUBSYSTEM:WINDOWS /LARGEADDRESSAWARE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\vantan\Desktop\GameProduction\KMT Works\3D Games\DirectX Games\Lumps\Release\WindowsGame.lib" /MACHINE:X86 Release\KMTGameEngine.res
+         Release\DXUT.obj
+         Release\DXUTenum.obj
+         Release\DXUTmisc.obj
+         Release\DXUTcamera.obj
+         Release\DXUTgui.obj
+         Release\DXUTres.obj
+         Release\DXUTsettingsdlg.obj
+         Release\SDKmesh.obj
+         Release\SDKmisc.obj
+         Release\SDKwavefile.obj
+         Release\CameraThirdPerson.obj
+         Release\AnimationEffect.obj
+         Release\EffectDiffusion.obj
+         Release\Drop.obj
+         Release\GameObject.obj
+         Release\Sphere.obj
+         Release\Player.obj
+         Release\QTreeDebug.obj
+         Release\QTreeDebug_.obj
+         Release\TerrainDebug.obj
+         Release\Objects.obj
+         Release\ScenePlay.obj
+         Release\UI.obj
+         Release\SceneResult.obj
+         Release\Scene.obj
+         Release\SceneManager.obj
+         Release\ShaderDebug.obj
+         Release\SceneTitle.obj
+         Release\Transition.obj
+         Release\HeightField.obj
+         Release\Extension.obj
+         Release\Animation.obj
+         Release\Camera.obj
+         Release\ModelRenderer.obj
+         Release\GraphicalregularPolygonPlane.obj
+         Release\GraphicsManager.obj
+         Release\Material.obj
+         Release\Mesh.obj
+         Release\PointSprite.obj
+         Release\Layer.obj
+         Release\ShaderHalfLambert.obj
+         Release\ShaderLambert.obj
+         Release\Particle.obj
+         Release\ShaderPhong.obj
+         Release\Shader.obj
+         Release\GraphicalPlane.obj
+         Release\ShaderToon.obj
+         Release\Sprite.obj
+         Release\Text.obj
+         Release\Texture.obj
+         Release\ViewBehavior.obj
+         Release\Math.obj
+         Release\Matrix.obj
+         Release\Quaternion.obj
+         Release\Transformation.obj
+         Release\BoundingVolume.obj
+         Release\Collision.obj
+         Release\JoyPadManager.obj
+         Release\sound.obj
+         Release\sound_manager.obj
+         Release\wsb_xml.obj
+         Release\Counter.obj
+         Release\Debug.obj
+         Release\FrameRateCounter.obj
+         Release\Timer.obj
+         Release\Main.obj  
+         コード生成しています。
+     1>c:\users\vantan\desktop\gameproduction\kmt works\3d games\directx games\lumps\program\library\phisycs\treeobject.h(106): warning C4718: 'KMT::CCell<KMT::Sphere>::ResetLink' : 再帰呼び出しには副作用がありません、削除しています。
+     1>c:\users\vantan\desktop\gameproduction\kmt works\3d games\directx games\lumps\program\library\phisycs\treeobject.h(106): warning C4718: 'KMT::CCell<KMT::Sphere>::ResetLink' : 再帰呼び出しには副作用がありません、削除しています。
+         コード生成が終了しました。
+         WindowsGame.vcxproj -> C:\Users\vantan\Desktop\GameProduction\KMT Works\3D Games\DirectX Games\Lumps\Release\WindowsGame.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\vantan\Desktop\GameProduction\KMT Works\3D Games\DirectX Games\Lumps\Release\WindowsGame.exe;#1" /manifest Release\WindowsGame.exe.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         ファイル "Release\WindowsGame.unsuccessfulbuild" を削除しています。
+         "Release\WindowsGame.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\vantan\Desktop\GameProduction\KMT Works\3D Games\DirectX Games\Lumps\WindowsGame.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:14.38

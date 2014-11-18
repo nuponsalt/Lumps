@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Grapvity>9.8</Grapvity>
+  <Terrain>
+    <Path>Resource/X-File/Debug/Terrain/Terrain/Terrain.x</Path>
+    <Size>1</Size>
+  </Terrain>
+  <Object>
+    <Path>Resource/X-File/Debug/Terrain/Object/BoundingSphere.x</Path>
+    <Size>0.5</Size>
+    <Position>
+      <X>0</X>
+      <Y>250</Y>
+      <Z>0</Z>
+    </Position>
+  </Object>
+  <CameraPos>
+    <X>0</X>
+    <Y>500</Y>
+    <Z>-1000</Z>
+  </CameraPos>
+  <DeadLine>-50</DeadLine>
+</root>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Text>                                                                                      
+    <Size>20</Size>
+    <Font>メイリオ</Font>
+  </Text>
+  <Back>Resource/X-File/Play/SkyDome/SkyDome.x</Back>
+  <Object>
+    <path>Resource/X-File/Play/Player/Player.x</path>
+    <Position>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>20</Z>
+    </Position>
+    <Scale>1</Scale>
+    <speed>5</speed>
+  </Object>
+</root>

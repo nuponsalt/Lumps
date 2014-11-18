@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Text>                                                                                      
+    <Size>20</Size>
+    <Font>メイリオ</Font>
+  </Text>
+  <Image>
+    <Circle>Resource/Texture/Debug/Circle.png</Circle>
+    <ColCircle>Resource/Texture/Debug/Circle(Col).png</ColCircle>
+  </Image>
+</root>

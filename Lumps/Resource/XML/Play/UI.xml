@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <TimeLimit>80</TimeLimit>
+  <TimeCount>
+    <Count>60</Count>
+    <Color>
+      <R>0</R>
+      <G>1</G>
+      <B>0</B>
+    </Color>
+    <Position>
+      <X>520</X>
+      <Y>50</Y>
+    </Position>
+  </TimeCount>
+  <SizeCount>
+    <Color>
+      <R>1</R>
+      <G>1</G>
+      <B>1</B>
+    </Color>
+    <Position>
+      <X>130</X>
+      <Y>460</Y>
+    </Position>
+  </SizeCount>
+  <UI>
+    <path>Resource/Texture/Play/UI.png</path>
+    <Position>
+      <X>480</X>
+      <Y>270</Y>
+    </Position>
+  </UI>
+  <SizeUI>
+    <path>Resource/Texture/Play/SizeUI.png</path>
+    <Position>
+      <X>130</X>
+      <Y>460</Y>
+    </Position>
+  </SizeUI>
+  <Interval>44</Interval>
+</root>

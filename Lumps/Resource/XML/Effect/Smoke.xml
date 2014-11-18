@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<Path>Resource/Texture/Effect/Smoke.png</Path>
+  <DevideNumber>
+    <X>10</X>
+    <Y>1</Y>
+  </DevideNumber>
+  <Size>
+    <Width>5</Width>
+    <Height>5</Height>
+  </Size>
+	<AnimationSpeed>1</AnimationSpeed>
+</root>
+

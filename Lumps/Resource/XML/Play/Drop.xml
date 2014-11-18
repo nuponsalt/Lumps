@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Model>Resource/X-File/Play/Sphere/Sphere.x</Model>
+  <Position>
+    <X>0</X>
+    <Y>20</Y>
+    <Z>10</Z>
+  </Position>
+  <Life>300</Life>
+  <Shadow>
+    <Y>0.002</Y>
+  </Shadow>
+  <Marker>
+    <Path>Resource/Texture/Play/DropMarker.png</Path>
+    <Y>0.002</Y>
+  </Marker>
+</root>
