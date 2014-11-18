@@ -1,34 +1,34 @@
-ƒfƒBƒXƒN‚©‚çƒfƒXƒNƒgƒbƒvã‚Éƒf[ƒ^‚ðƒRƒs[‚µ‚ÄyWindowsGame.exez‚ðƒ_ƒuƒ‹ƒNƒŠƒbƒN‚µ‚Ä‚­‚¾‚³‚¢B
+ï»¿ãƒ‡ã‚£ã‚¹ã‚¯ã‹ã‚‰ãƒ‡ã‚¹ã‚¯ãƒˆãƒƒãƒ—ä¸Šã«ãƒ‡ãƒ¼ã‚¿ã‚’ã‚³ãƒ”ãƒ¼ã—ã¦ã€WindowsGame.exeã€‘ã‚’ãƒ€ãƒ–ãƒ«ã‚¯ãƒªãƒƒã‚¯ã—ã¦ãã ã•ã„ã€‚
 
-‚±‚ÌƒQ[ƒ€‚ÍA3DƒAƒNƒVƒ‡ƒ“ƒQ[ƒ€‚Å‚·B(’A‰¹‚ª‚ ‚è‚Ü‚·B)
-ã‚©‚ç~‚Á‚Ä‚­‚éƒJƒ‰ƒtƒ‹‚È‹…‚ðA§ŒÀŽžŠÔ‚¢‚Á‚Ï‚¢Ž©‹@‚É‚­‚Á‚Â‚¯‚Ä
-‘å‚«‚È‰ò‚ð‚Â‚­‚é‚Ì‚ª‚±‚ÌƒQ[ƒ€‚Ì–Ú“I‚Å‚·B
+ã“ã®ã‚²ãƒ¼ãƒ ã¯ã€3Dã‚¢ã‚¯ã‚·ãƒ§ãƒ³ã‚²ãƒ¼ãƒ ã§ã™ã€‚(æ³¨ã€éŸ³ãŒã‚ã‚Šã¾ã™ã€‚)
+ä¸Šã‹ã‚‰é™ã£ã¦ãã‚‹ã‚«ãƒ©ãƒ•ãƒ«ãªçƒã‚’ã€åˆ¶é™æ™‚é–“ã„ã£ã±ã„è‡ªæ©Ÿã«ãã£ã¤ã‘ã¦
+å¤§ããªå¡Šã‚’ã¤ãã‚‹ã®ãŒã“ã®ã‚²ãƒ¼ãƒ ã®ç›®çš„ã§ã™ã€‚
 
 // ------------------------------------------------------------------
-// ‘€ì•û–@
+// æ“ä½œæ–¹æ³•
 // ------------------------------------------------------------------
 
-//* ƒ^ƒCƒgƒ‹‰æ–Ê *//
-¶‰Ei©¨jƒL[ 	: ‘I‘ð
-Enter/Z		: Œˆ’è
-BackSpace/X	: –ß‚é
+//* ã‚¿ã‚¤ãƒˆãƒ«ç”»é¢ *//
+å·¦å³ï¼ˆâ†â†’ï¼‰ã‚­ãƒ¼ 	: é¸æŠž
+Enter/Z		: æ±ºå®š
+BackSpace/X	: æˆ»ã‚‹
 
-//* ƒvƒŒƒC‰æ–Ê *//
-A		: ƒJƒƒ‰¶‰ñ“]
-D		: ƒJƒƒ‰‰E‰ñ“]
-•ûŒüƒL[		: ¶‰E‘OŒãˆÚ“®
+//* ãƒ—ãƒ¬ã‚¤ç”»é¢ *//
+A		: ã‚«ãƒ¡ãƒ©å·¦å›žè»¢
+D		: ã‚«ãƒ¡ãƒ©å³å›žè»¢
+æ–¹å‘ã‚­ãƒ¼		: å·¦å³å‰å¾Œç§»å‹•
 
-//* ƒŠƒUƒ‹ƒg‰æ–Ê *//
-Enter		: ƒ^ƒCƒgƒ‹‚É–ß‚é
+//* ãƒªã‚¶ãƒ«ãƒˆç”»é¢ *//
+Enter		: ã‚¿ã‚¤ãƒˆãƒ«ã«æˆ»ã‚‹
 
 ***************************************************************
-‘fÞ’ñ‹Ÿ 
+ç´ ææä¾› 
 
-BGMF
-	ƒtƒŠ[‰¹Šy‘fÞ Senses Circuit : http://www.senses-circuit.com/
+BGMï¼š
+	ãƒ•ãƒªãƒ¼éŸ³æ¥½ç´ æ Senses Circuit : http://www.senses-circuit.com/
 	MusicMaterial : http://musicmaterial.jpn.org/
 
 SE :
-	ƒtƒŠ[‰¹Šy‘fÞ Senses Circuit : http://www.senses-circuit.com/
-	ƒtƒŠ[Œø‰Ê‰¹‘fÞ ‚­‚ç‚°H  : http://www.kurage-kosho.info/
+	ãƒ•ãƒªãƒ¼éŸ³æ¥½ç´ æ Senses Circuit : http://www.senses-circuit.com/
+	ãƒ•ãƒªãƒ¼åŠ¹æžœéŸ³ç´ æ ãã‚‰ã’å·¥åŒ  : http://www.kurage-kosho.info/
 **************************************************************
